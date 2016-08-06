@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<strings>
+  <language name="Bahasa (Indonesia)" base="Indonesia" variant="Bahasa Mahasiswa Ilkom Unila"/>
+  <string key="NotInGame">
+    <value>Lo belum gabung di permainan ini, klik /join atau startgame buat gabung jon</value>
+  </string>
+  <string key="PlayerStartedGame">
+	<!-- 0 - Player name -->
+    <value>📣{0} udah mulai permainan tipe NORMAL! Ketik /join buat gabung.</value>
+    <value>📣 Permainan NORMAL udah dimulai oleh {0}! Ketik /join buat gabung.</value>
+  </string>
+  <string key="PlayerStartedChaosGame">
+	<!-- 0 - Player name -->
+    <value>📣{0} udah mulai permainan tipe CHAOS! Ketik /join buat gabung dan bunuh semua mahasiswa kampung Himakom! 😈</value>
+    <value>📣 Permainan CHAOS udah dimulai oleh {0}! Ketik /join buat gabung dan bunuh semua mahasiswa kampung Himakom! 😈</value>
+  </string>
+  <string key="NoJoinGameRunning">
+    <value>telat jon! Permainan lagi berlangsung. Tunggu permainan selanjutnya("`o´)-σ.</value>
+	<value>Permainan lagi berlangsung, Silahkan menunggu permainan selanjutnya.</value>
+	<value>Sabar yah nunggu game selanjutnya. makanya jangan telat jon :)</value>
+  </string>
+  <string key="AlreadyJoined">
+    <value>Lo sudah ikut bermain, jangan joan join joan join! Bikin bingung aja! Peper upil nih 
+	(‾-ƪ‾)( ‾-‾)-σ•••• </value>
+	<value>Lo sudah gabung di permainan, Sabar!! #mikir
+	("._.)⌛️</value>
+  </string>
+  <string key="MinuteLeftToJoin">
+    <value>📣 1 menit lagi buat /join</value>
+  </string>
+  <string key="SecondsLeftToJoin">
+	<!-- 0 - remaining seconds (number) -->
+    <value>📣 {0} detik lagi buat /join.ligat jon! </value>
+  </string>
+  <string key="NotEnoughPlayers">
+    <value>nggak cukup Mahasiswa! Permainan dibatalkan! panggil kawan yang laen geh jon!
+	\('o')-σ</value>
+	<value>Jumlah Mahasiswa nggak cukup, permainan dibatalkan. 
+	ᶘᵒᴥᵒᶅ</value>
+	<value> EAAAA!!! Gajadi maen. Gak cukup oii pemaennya. Ajak yang laen geh :* </value>
+  </string>
+  <string key="StartingGameWait">
+    <value>Permainan dimulai, Silahkan tunggu. ⌛️</value>
+	<value>Permainan udah dimulai, bersiap dalam 3.. 2.. 1..⌛️</value>
+	<value>Udah dimulai. Sssstt jangan kalong-kalong peran yaah. Himakooooommm.... Makin Jaya! </value>
+  </string>
+  <string key="BannedForExploit">
+	<!-- 0 - Player name -->
+    <value>{0} Sabar yaah akun Lo terkena banned. (mohon nggak memakai / di nama Lo)</value>
+  </string>
+  <string key="ChangeNameToJoin">
+	<!-- 0 - Player name -->
+    <value>{0}, mohon ganti nama Lo buat gabung</value>
+  </string>
+  <string key="PlayerLimitReached">
+    <value>Maaf ya, kuota Mahasiswa maksimal (35 Mahasiswa) terpenuhi. Coba aja laen kali.</value>
+	<value>Jumlah maksimal Mahasiswa (35 Mahasiswa) terpenuhi, Silahkan coba laen kali.</value>
+  </string>
+  <string key="PlayerJoined">
+	<!-- 0 - Player name -->
+    <!-- 1 - current players -->
+    <!-- 2 - Minimum players -->
+    <!-- 3 - Maximum players -->
+    <value>{0} gabung. {1} Mahasiswa, {2} minimum, {3} max</value>
+  </string>
+  <string key="PMTheBot">
+	<!-- 0 - Player name -->
+    <!-- 1 - bot username -->
+    <value>{0} Mohon PM bot (@{1}) kemudian ketik /start buat bermain. setelah itu, Bot bakal memberikan petunjuk permainan.</value>
+  </string>
+  <string key="DeadFlee">
+    <value>HEH! Mau kabur ke mana? Lupa kalo Lo udah mati? Masuk kubur lagi sana, HIH! 👻</value>
+	<value>Tebar garam!! Ada zombie melarikan diri!! 👻 Udah tau udah mati, sok gaya mau kabur!</value>
+  </string>
+  <string key="Flee">
+	<!-- 0 - Player name -->
+    <value>{0} udah lari ketakutan! Mungkin dipanggil Dosen pembimbing  </value>
+	<value>{0} melarikan diri dari permainan, dasar ngga niat main!Kelaut aje jon!
+	(҂`_´)︻╦̵̵̿╤─ •••••</value>
+  </string>
+  <string key="PlayerRoleWas">
+	<!-- 0 - Player name -->
+    <!-- 1 - Player role -->
+    <value>{0} adalah {1} </value>
+  </string>
+  <string key="CountPlayersRemain">
+	<!-- 0 - Number of players -->
+    <value>{0} Mahasiswa Tersisa.</value>
+  </string>
+  <string key="DidntAsk">
+    <value>Sabar siih.. belum gilirannya main 🚦.</value>
+	<value>Sepertinya ada yang salah..🚧</value>
+  </string>
+  <string key="NotPlaying">
+    <value>Lo nggak ikutan permainan.</value>
+  </string>
+  <string key="NoPlayerName">
+    <value>Nama yang Lo pilih nggak tersedia, Silahkan tekan 0 buat bantuan operator!</value>
+  </string>
+  <string key="AnswerNonValid">
+    <value>Jawaban Lo, salah! Lo gagal memenangkan undian berhadiah televisi 2 pintu.</value>
+	<value>Yak, jawaban Lo salah! Lo gagal memenangkan hatinya, coba lagi laen waktu.
+	("`▽´)-σ  </value>
+  </string>
+  <string key="WolfVotedKill">
+	<!-- 0 - wolf teammate name -->
+    <!-- 1 - Victim name -->
+    <value>{0} milih makan {1}</value>
+  </string>
+  <string key="PlayerVotedLynch">
+	<!-- 0 - Voter name -->
+    <!-- 1 - Target name -->
+    <value>{0} milih {1} buat dieksekusi.</value>
+  </string>
+  <string key="IdleKill">
+	<!-- 0 - player name -->
+    <!-- 1 - player role -->
+    <value>☠{0} ngilang 2 malem berturut-turut. Dewa19 marah, Flat Earth gonjang ganjing, langit terbelah, dan {0} mati ketimpah kipas Sekret Himakom
+	{1}</value>
+	<value>☠{0} ngilang 2 malem berturut-turut. mahasiswa panik sambil menunjuk sebuah piring terbang melintas di atas kampung Himakom,{0} diculik Alien Mumu.
+	{1}</value>
+	<value>☠{0} ngilang 2 malem berturut-turut. Dewa19 mengutuknya jadi monster kopi sianida jessica dan mengacau kampung Himakom. mahasiswa dibuat resah, diorang marah dan memukul {0} sampe ninggal.
+	{1}</value>
+	<value>☠{0} ngilang 2 malem berturut-turut. Dosen pembimbing menghampirinya dan {0} disuruh mengerjbakal deadline dibanding main ww.
+	{1}</value>
+  </string>
+  <string key="TraitorTurnWolf">
+    <value>Semua wolf udah mati, Lo pergi ke beringin Unila dan bulu-bulu tumbuh di tubuhmu, Lo mengalami puber kedua sebagai SERIGALA!</value>
+	<value>Semua wolf udah mati, dibanding permainan selesai duluan, Lo pun iseng jadi SERIGALA!</value>
+  </string>
+  <string key="ChoiceAccepted">
+    <value>Pilihan Lo tepat sekali!</value>
+	<value>Horeee! Pilihan diterima! UP,UP,UP!Himakommm... Makin Jaya!
+	\('o' \) \('o')/ (/ 'o')/</value>
+	<value>Ciyuss? Beneran milih dia? Yakin nih yakin nih??
+	("`▽´)-σ</value>
+  </string>
+  <string key="BeholderSeer">
+	<!-- 0 - seer name -->
+    <value>\nSi dukun Kampung Himakom (Seer) 👳 yang sebenarnya adalah {0}</value>
+  </string>
+  <string key="ApprenticeNowSeer">
+	<!-- 0 - seer name -->
+    <value> {0} adalah dukun Kampung Himakom (Seer) 👳 dan udah mati. Sebagai mahasiswa bimbingan dukun Kampung Himakom (Apprentice), Lo naek pangkat sebagai dukun Kampung Himakom.</value>
+  </string>
+  <string key="BeholderNewSeer">
+	<!-- 0 - apprentice name -->
+    <!-- 1 - seer name -->
+    <value> {0} adalah mahasiswa bimbingan dukun Kampung Himakom (Apprentice), dan kini dia gantiin tugas {1} sebagai dukun Kampung Himakom 👳.</value>
+  </string>
+  <string key="SeerSees">
+	<!-- 0 - player name -->
+    <!-- 1 - player role -->
+    <value>Lo ngeliat {0} adalah {1}! setelah semaleman membaca mantera, Lo pun terduduk lemas.</value>
+  </string>
+  <string key="AskLynch">
+    <value>Siapa yang bakal dieksekusi? 🔥</value>
+  </string>
+  <string key="AskDetect">
+    <value>Siapa yang bakal Lo awasin?</value>
+  </string>
+  <string key="AskShoot">
+	<!-- 0 - bullet count -->
+    <value>Siapa yang bakal Lo tembak? Sisa peluru perak {0} butir.</value>
+  </string>
+  <string key="AskVisit">
+    <value>Siapa yang bakal Lo ajak ena-ena lucu gemes mancaap? 👄</value>
+  </string>
+  <string key="AskSee">
+    <value>Siapa yang bakal Lo terawang? Bukan Terawang bajunya yaah :)</value>
+  </string>
+  <string key="AskGuard">
+    <value>Siapa yang bakal Lo lindungin?</value>
+  </string>
+  <string key="AskEat">
+    <value>Siapa yang bakal Lo makan?</value>
+  </string>
+  <string key="AskHunt">
+    <value>Siapa yang bakal Lo buru?</value>
+  </string>
+  <string key="AskRoleModel">
+    <value>Siapa yang jadi dosen Ilkom pembimbing lo?</value>
+	<value>Siapa yang jadi tokoh idolamu?</value>
+  </string>
+  <string key="AskConvert">
+    <value>Siapa yang bakal Lo hasut gabung di gengs mahasiswa lo?</value>
+  </string>
+  <string key="DiscussWith">
+	<!--Leave the leading spaces here please-->
+    <!-- 0 - teammate names -->
+    <value>  Pastikan Lo diskusi dengan {0}</value>
+  </string>
+  <string key="And"> 
+	<!--this is paired with "DiscussWith".  again, leave the spaces!-->
+    <value> ,dan </value>
+  </string>
+  <string key="RoleInfoCursed">
+    <value>Terkutuk! Lo adalah Cursed 😾, sekarang Lo adalah mahasiswa kampung Himakom. 
+	tapi kalo serigala gigit lo, Lo bakal jadi seekor Serigala.</value>
+  </string>
+  <string key="RoleInfoDetective">
+    <value>Lo adalah detektif 🕵, yang bisa ngawasin gerak gerik nyurigain dan buka kedok Mahasiswa pilihan lo di siang hari. 
+	tapi kalo Lo ngawasin serigala, 40% kemungkinan dia bakal sadar udah diawasin olehmu.</value>
+  </string>
+  <string key="RoleInfotukang mabok">
+    <value>Lo adalah tukang mabok 🍻, tukang mabok yang sering ketiduran di depan Sekret Himakom.
+	Kadar alkoholmu mencapai 120 persen, sehingga serigala pun bakal mabok kalo makan lo.</value>
+  </string>
+  <string key="RoleInfoGuardianAngel">
+    <value>Lo adalah Malaikat Pelindung Yang Jatuh Dari Tangga Lab 👼. tiap malem Lo wajib fardhu 'ain lindungin 1 Mahasiswa pilihan lo.
+	tapi kalo Lo milih serigala, 50 persen kemungkinan Lo bakal mati..</value>
+  </string>
+  <string key="RoleInfoGunner">
+    <value>Lo adalah Gunner Si Penembak 🔫. Lo cuma punya dua peluru perak yang bisa Lo tembak di siang hari.
+	Pilih yang bakal Lo tembak dengan hati-hati, karena semua orang bakal denger suara tembakan lo. (termasuk serigala)</value>
+  </string>
+  <string key="RoleInfoHarlot">
+    <value>Lo adalah Harlot 💋 yang bisa masuk ke kosan Mahasiswa lainnya tanpa diorang tau siapa Lo tiap malem hari.
+	  tapi kalo Lo masuk ke kosan serigala atau kosan yang lagi diserang serigala, Lo bakal mati. Serigala nggak bakal bisa makan lo kalo diorang nyerang kosan lo, karena Lo lagi kelon ena di kosan laen. :))
+	Kadang Lo bakal nemuin kejanggalan tertentu di kosan seseorang.</value>
+  </string>
+  <string key="RoleInfoTraitor">
+    <value>Traitor! 🖕 Lo adalah seorang pengkhianat yang jadi Serigala kalo semua serigala udah mati. Seorang dukun Kampung Himakom (Seer) kadang bakal ngeliat lo sebagai serigala biarpun Lo masih berwujud mahasiswa kampung Himakom.</value>
+  </string>
+  <string key="RoleInfoWolf">
+    <value>SERIGALA!! 🐺 Lo  penyebar teror yang sebenarnya tiap malem di kampung Himakom, selamat makan korban lo. Jangan lupa pake kecap :) </value>
+  </string>
+  <string key="RoleInfoSeer" >
+    <value >Lo adalah dukun Kampung Himakom (Seer) 👳. Dengan modal kemenyan dan jampi-jampi, Lo bisa tau peran Mahasiswa pilihan lo.</value>
+  </string>
+  <string key="RoleInfoVillager" >
+    <value >Lo cuma mahasiswa kampung Himakom biasa 👱, ngoding di sekret tiap hari dan jadi santapan serigala. Terima saja nasib lo :(</value>
+  </string>
+  <string key="RoleInfoTanner" >
+    <value >Lo adalah Tanner Si Pembuat Onar 👺, kalo mahasiswa kampung Himakom berhasil gantung lo, Lo menang!</value>
+  </string>
+  <string key="RoleInfoWildChild" >
+    <value >Lo adalah Anak yang Liar 👶, Remaja Labil yang membutuhkan seorang dosen pembimbing untuk nyelesain skripsi bikin sistem.kalo dosen Ilkom pembimbing lo mati, Lo jadi serigala.</value>
+  </string>
+  <string key="RoleInfoBeholder" >
+    <value >Lo adalah Beholder 👁, cuma Lo yang tau siapa dukun Kampung Himakom (Seer) yang asli .</value>
+  </string>
+  <string key="RoleInfoApprenticeSeer" >
+    <value >Lo adalah mahasiswa bimbingan dukun Kampung Himakom (Apprentice) 🙇. kalo dukun Kampung Himakom yang asli mati, Lo bertugas gantiin dia.</value>
+  </string>
+  <string key="RoleInfoCultist" >
+    <value >BIDIP BIDIP!! 🐚
+	Lo adalah seorang Jomblers 👤, anggota gengs mahasiswa sesat Pemuja Mumu Ajaib. 
+	Impian lo adalah nguasain dunia dengan ngajak mahasiswa kampung Himakom gabung dengan lo tiap malem hari, kalo semua serigala mati dan semua mahasiswa kampung Himakom jadi anggota lo, Lo menang!</value>
+  </string>
+  <string key="RoleInfoCultistHunter" >
+    <value >BAHAYA!! Lo tau ada gerakan dari sebuah pemujaan sesat di kampung Himakommu. diorang bakal ngajak mahasiswa kampung Himakom buat gabung memuja Mumu Ajaib! BIDIP BIDIP!
+	 tugas lo adalah buru diorang sampe akarnya, kalo salah satu dari diorang ngajak gabung, Lo bisa bela diri dengan silat wak juwan Wak Juwan dan bunuh anggota terbaru diorang 💂.</value>
+  </string>
+  <string key="LynchTime" >
+	<!-- 0 - number of seconds -->
+    <value >🌥 Maghrib udah dateng.
+	 semua mahasiswa berkumpul di sekret kampung Himakom buat milih siapa yang bakal dieksekusi, sebagian mahasiswa keliatan sibuk menyiapkan alat penyiksaan berupa Batere Laptop,Mouse Lab,Suntikan Tinta buat malem ini.
+     kamorang punya waktu selama {0} detik buat milih!
+    </value>
+	<value >🌥 Maghrib udah dateng.
+	 mahasiswa berkumpul di depan sekret kampung Himakom dengan bawa obor dan beberapa mahasiswa keliatan sibuk menyiapkan alat penyiksaan buat eksekusi malem ini.
+     kamorang punya waktu selama {0} detik buat milih!
+    </value>
+  </string>
+  <string key="DayTime" >
+	<!-- 0 - number of seconds -->
+    <value >☀️ Siang Hari.
+	Matahari tepat di atas kepala. mahasiswa kampung Himakom punya {0} detik buat nuduh / bela diri / ngambek dituduh.. 
+	Pokoknya woles jaa ya 
+	(╭￣3￣)╭ </value>
+	string key="DayTime" >
+    <value >☀️ Siang Hari.
+	Matahari lagi panas-panasnya. mahasiswa kampung Himakom punya {0} detik buat diskusi / pura-pura ngoding  / ngaku jadi mahasiswa kampung Himakom.. 
+	Pokoknya woles jaa lho ya 
+	( ｰ̀εｰ́ )</value>
+  </string>
+  <string key="NightTime" >
+	<!-- 0 - number of seconds -->
+    <value >🌙 malem udah dateng, kampung Himakom semakin sepi. 
+	Sebagian udah ketiduran megang hp, sebagian baper kangen mantan. Emang Punya mantan tah?
+	Mahasiswa malem hari: kamorang punya {0} detik buat jalanin aksi lo (ง•̀-•́)ง !</value>
+	<value >🌙 malem udah dateng,
+	Sebagian udah ketiduran megang hp, sebagian mulai bersiap melancarkan aksinya.
+	Mahasiswa malem hari: kamorang punya {0} detik buat jalanin aksi lo(ง•̀-•́)ง !</value>
+  </string>
+  <string key="LynchKill" >
+	<!-- 0 - player name -->
+    <!-- 1 - player role -->
+    <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} ninggal dibakar massa. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} digantung oleh mahasiswa dan meronta sebelum akhirnya ninggal. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} dilemparin batu bacan sampe ninggal. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} disuruh ikutan Tebak Kata Eat Bulaga hingga frustasi. {0} tewas paleng. {1} </value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} dikelitikin oleh mahasiswa yang marah sampe ninggal. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} cuma disuruh nyanyi Himne Universitas aja 🎈. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} dipaksa jadian sama cabe rawit keriting 🌶. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} dimasukin ke kulkas sekret. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} disuruh buat lulus kuliah tepat waktu 📖. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. 
+	  {0} ditelpon ortunya buat cepet nikah 🎎. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan.
+	  {0} disuruh bersihin WC sampai ronde berakhir 💩. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan.
+	  {0} disuruh menghadap Dosen pembimbing  besok pagi! 👹. {1}</value>
+  <value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan.
+	  {0} dimajukan deadlinenya sampe satu jam lagi ⏱. {1}</value>
+<value >🔥 mahasiswa kampung Himakom ngambil keputusan bulat sebulat tahu bulat digoreng dadakan.
+	  {0} disuruh apa yaaaa.. hhhmm pokoknya ninggal {1} </value>
+  </string>
+  <string key="LynchTie" >
+    <value > Terlalu banyak konsumsi bakso micin depan GIK, mahasiswa kesulitan ngambil keputusan bulat sebulat tahu bulat digoreng dadakan. huvt.
+	┐(ˇ.ˇ")┌ ..</value>
+	<value >mahasiswa gagal ngambil keputusan bulat sebulat tahu bulat digoreng dadakan,
+	┓(╯_╰")┏ , diorang pulang ke kosan masing-masing dengan tangan hampa sehampa hati ini. hhmmm... .</value>
+  </string>
+  <string key="NoLynchVotes" >
+    <value >nyurigain, nggak ada yang milih buat digantung malem ini. Sok pada sibuk ngoding dih! </value>
+  </string>
+  <string key="DetectiveEaten" >
+	<!-- 0 - victim name -->
+    <value >🌤 mahasiswa berkumpul di pagi hari dan nggak ngeliat batang idung si {0}.
+	diorang ke kosan {0} dan ngeliat tubuh tercabik, kaca pembesar pecah, celana terbuka, leher memerah, lah? dan lencana detektif separuh keluar di tenggorokannya. Detektif udah mati 🕵. Hiks :( </value>
+  </string>
+  <string key="GuardianEaten" >
+	<!-- 0 - victim name -->
+    <value >🌤 Pagi udah dateng, nggak percaya dengan apa yang diorang lihat. Sepasang sayap hijau keabu-abuan terjuntai di atas pohon beringin unila.
+	Tubuh {0} tergeletak, dia seorang Malaikat Pelindung Yang Jatuh Dari Tangga Lab 👼.</value>
+	<value >🌤 Pagi udah dateng, Sepasang sayap hijau keabu-abuan berkibar di tiang bendera depan sekret kampung Himakom.
+	Tubuh {0} tergeletak, dia seorang Malaikat Pelindung Yang Jatuh Dari Tangga Lab 👼.</value>
+	<value> Pagi ini mahasiswa terkejut, tampak sepasang sayap berwarna hijau keabu-abuan tergeletak di depan portal parkir kampus. Tak jauh darisana tampak juga sesosok malaikat yang kurang menawan udah ninggal.
+	{0} si detektif ninggal. </value>
+  </string>
+  <string key="GunnerEaten" >
+	<!-- 0 - victim name -->
+    <value >🌤 mahasiswa dikejutkan dengan ditemukannya potongan dari pistol lebaran.. Serta bercak darah segar ke arah sebuah kosan bekas. Lalu ditemuin sebuah tubuh terkapar, terburai bekas gigitan serigala.
+	 {0} udah mati, kamorang kehilangan seorang Gunner 🔫.</value>
+  </string>
+  <string key="SeerEaten" >
+	<!-- 0 - victim name -->
+    <value >🌤 Pagi udah dateng, bau menyan dan bau pesing kucing tercium dari kosan {0} . 
+	{0} Terkapar di atas buku mantera, sang dukun Kampung Himakom (Seer) 👳 udah mati.</value>
+  </string>
+  <string key="DrunkEaten" >
+	<!-- 0 - victim name -->
+    <value >🌤 KEBAKARAN DI CS!! mahasiswa berlarian memadamkan api, bau es marjan bikin sebagian mahasiswa mabok.
+    Tubuh {0} ditemuin hangus, dia tukang mabok Si 🍻.</value>
+	<value >🌤 Sepertinya ada pesta semalem, mahasiswa ngeliat botol jamu acak-acakan di dalam CS.
+    Tubuh {0} ditemuin terjuntai di dalam tong jamu, dia tukang mabok  🍻.</value>
+  </string>
+  <string key="FoolEaten" >
+	<!-- 0 - victim name -->
+    <value >🌤 Pagi udah dateng, bau kemenyan palsu menyeruak dari sebuah kosan milik {0}.
+	 Terkapar di atas buku majalah judi togel, mahasiswa ngeliat FOOL udah mati tertawa 🃏.</value>
+  </string>
+  <string key="DefaultEaten" >
+	<!-- 0 - victim name -->
+    <!-- 1 - victim role -->
+    <value>🌤 Mentari pagi dan semerbak bau pesing tercium di lumbung kampung Himakom, tapi bukan bau pipis belum disiram..
+	{0} mati mengenaskan dikerubuti lalat ijo dengan isi perut terburai ke tanah, NOMNOMNOMNOM!
+	{1}</value>
+	<value>🌤 Pagi ini mahasiswa dikejutkan dengan sebuah teriakan!
+	{0} tergeletak di sebuah parit yang memerah dengan kondisi tanpa kepala, NOMNOMNOMNOM! 
+	Щ(ºДºщ) {1}</value>
+	<value>🌤 Pagi udah dateng, mahasiswa mengerumuni kosan yang porak poranda dan bercak darah di mana-mana.
+	{0} terbujur di atas genteng kosan dengan kepala hampir terputus, mata memerah, bibir bekas gigita, kaki kesemutan,NOMNOMNOMNOM!
+	{1}</value>
+	<value>🌤 Pemandangan mengerikan!! 
+	Darah dan bagian organ tubuh acak-acakan di sepanjang jalan.
+	{0} cuma tersisa sendal jepitnya, NOMNOMNOMNOM!
+	{1}</value>
+	<value>🌤 Beberapa spidol sekret tertancap di mata!!
+	Kertas-kertas tugas dan laptop menyala ada di atas perutnya yang buncit. NOMNOMNOM!!
+	{1}</value>
+	<value>🌤 Sebuah piala dan kepala {0} ditemuin di depan gawang futsal di jalan kampus FMIPA.
+	Skor 2-1, sepertinya para Serigala bertanding futsal di Himakom Tournament semalam.
+	{1}</value>
+	<value>🌤 Terdengar suara ribut di kosan {0} semalem!!
+	mahasiswa mengira ada yang sedang berbuat mesum, ternyata dia dimakan serigala :(
+	{1}</value>
+  </string>
+  <string key="HunterKilledCultist">
+	<!-- 0 - victim name -->
+    <value>Bau Hena tercium dari kosan {0}
+	 mahasiswa memeriksa ke dalam kosan dan nemuin podium pemujaan dan mumu raksasa terbelah dua. Seorang Kutil Pemuja Mumu Ajaib 👤 mati.</value>
+	<value>Ada yang nyurigain di kosan {0}
+	 mahasiswa mengintip dari balik jendela dan nemuin sosok mayat di atas podium pemujaan. Seorang Kutil Pemuja Mumu Ajaib 👤 mati.</value>
+  </string>
+  <string key="NoAttack" >
+    <value >🌤 Pagi udah dateng, Semua bernafas lega, nggak ada yang diserang semalem tadi.</value>
+	<value >🌤 Pagi udah dateng, nggak ada yang diserang semalem tadi, tapi diorang saling ngeliat curiga.</value>
+  </string>
+  <string key="CursedBitten" >
+    <value >Lo kegigit serigala, tapi bukannya mati Lo malah jadi bagian dari diorang sekarang. Selamat gabung coy!! </value>
+  </string>
+  <string key="WolfTeam">
+	<!-- 0 - teammate names -->
+    <value>Tim serigala lo adalah: {0}</value>
+  </string>
+  <string key="CursedBittenToWolves" >
+	<!-- 0 - victim name -->
+    <value >{0} udah kamorang gigit, ternyata dia seorang Cursed dan jadi Serigala! Selamat, jumlah kamorang bertambah banyak.</value>
+  </string>
+  <string key="WolvesEatYou" >
+    <value >TIDAAK!! 🐺 Serigala udah makan lo. NOMNOMNOMNOM (╬ Ò ‸ Ó)</value>
+	<value >Lo mencoba menelepon pihak Dekanat!
+	Ternyata pulsa Lo habis. 🐺 Serigala udah makan lo. NOMNOMNOMNOM ( ಠ ಠ ) </value>
+	<value >Lo berlari nyelamatin diri, sempet memberi perlawanan dengan jurus silat wak juwan di padepokan, tapi Lo kalah. 🐺 Serigala makan lo. NOMNOMNOMNOM (ᗒᗣᗕ)՞</value>
+	<value >Lo terlalu capek dan nggak sadar ada yang masuk ke dalam kamarmu, 🐺 Serigala udah makan lo. NOMNOMNOMNOM</value>
+	<value >Sepasang mata menyala di balik jendela, Lo mencoba nyumput di balik kardus mijon tapi diorang nemuin lo. 🐺 Serigala makan lo. NOMNOMNOMNOM</value>
+  </string>
+  <string key="WolvesEattukang mabok" >
+	<!-- 0 - victim name -->
+    <value >Sial!! ternyata {0} adalah tukang mabok!! 🍻 Lo berusaha pulang ke kosan dengan tergontai, Lo wajib fardhu 'ain istirahat besok malem. 
+	⋌༼ •̀ ⌂ •́ ༽⋋</value>
+  </string>
+  <string key="GuardWolf" >
+    <value >Lo milih buat lindungin serigala, Lo mati. gitu rasanya lindungin orang yang salah. mahasiswa ngebangun patung di depan sekret kampung Himakom buat nginget jasa lo ☠.</value>
+  </string>
+  <string key="GuardSaved" >
+	<!-- 0 - saved player name -->
+    <value >Lo berhasil lindungin {0} dari serangan kejahatan! Jangan Bangga woi!
+	( ᐛ )و</value>
+  </string>
+  <string key="GuardNoAttack" >
+	<!-- 0 - player name -->
+    <value >{0} ternyata nggak diserang, Lo bisa tidur nyenyak malem ini 💤.</value>
+	<value >{0} nggak diserang Serigala, Lo balik ke kosan 💤.</value>
+  </string>
+  <string key="GuardEmptyHouse">
+	<!-- 0 - player name -->
+    <value>Lo ke kosan {0} , ternyata dia nggak di kosan!</value>
+  </string>
+  <string key="GuardSavedYou" >
+    <value >Malaikat Pelindung Yang Jatuh Dari Tangga Lab 👼 lindungin lo tadi malem, jurus-jurus bambang pamungkas berhasil ngusir diorang pergi! 
+	( ᐛ )و</value>
+  </string>
+  <string key="HarlotEaten" >
+	<!-- 0 - player name -->
+    <value >💋 Harlot terlalu capek buat ke kosan seseorang tadi malem, makanya serigala yang berkunjung ke kosannya.
+	{0} mati.</value>
+  </string>
+  <string key="HarlotNotHome" >
+	<!-- 0 - player name -->
+    <value >Hena betul, kosan {0} ternyata kosong! Ngga jadi makan deh (۳º̩̩́oº̩̩̀)۳</value>
+  </string>
+  <string key="HarlotFuckWolf" >
+	<!-- 0 - player name -->
+    <value >Lo ke kosan {0} buat kelon ena ena 👄, tapi Lo salah milih korban. Lo mati dimakan si tuan kosan ☠.</value>
+  </string>
+  <string key="HarlotFuckedWolfPublic" >
+	<!-- 0 - player name -->
+    <value >{0} salah masuk kosan!! Bukannya dapat ena, malah ketemunya di kandang soang 🐷</value>
+    <value >mahasiswa kampung Himakom bergosip di hadapan mayat {0} yang salah masuk kosan! Seorang Harlot mati di kandang soang! 🐷</value>
+  </string>
+  <string key="HarlotFuckedVictimPublic" >
+	<!-- 0 - harlot name -->
+    <!-- 1 - victim name -->
+    <value >{0} diem-diem masuk ke kosan {1} buat kelon ena ena 👄. Udah terlanjur pengen, eh malah {1} lagi dimamam Serigala!
+	{0} udah balik arah mau lari, eh serigalanya nongol di depan dia....  
+	  {0} mati deh..kecian..</value>
+  </string>
+  <string key="HarlotVisitNonWolf" >
+	<!-- 0 - target name -->
+    <value >Lo ke kosan {0} dan ternyata dia bukan Serigala, beberapa ronde ena kamorang habiskan semalem. 💕</value>
+	<value >Perlahan Lo masuk ke kamar {0} dan dia bukan Serigala, kamorang menghabiskan semaleman dengan ena. 💕</value>
+	<value >Perlahan Lo mengikat tangan {0} dan menutup matanya dengan kain, kamorang pun sama-sama merasa ena semalem sbuat. 💕</value>
+  </string>
+  <string key="HarlotVisitYou" >
+    <value >Lo terbangun dengan tangan terikat dan mata tertutup kain, seseorang memberimu pelayanan sampai Lo lemas.. ena?? 💕</value>
+	<value >Lo terbangun dengan bisikan di telingamu, seseorang memberimu pelayanan semalem sbuat. ena?? 💕</value>
+  </string>
+  <string key="DetectiveCaught" >
+	<!-- 0 - detective name -->
+    <value >kamorang merasa diawasin! mata supermu ngeliat {0} ikutan kamorang. dia seorang detektif! 🕵 </value>
+  </string>
+  <string key="DetectiveSnoop" >
+	<!-- 0 - target name -->
+    <!-- 1 - target role -->
+    <value >Pengawasanmu membuahkan hasil! {0} adalah {1}</value>
+  </string>
+  <string key="HarlotShot" >
+	<!-- 0 - gunner's name -->
+    <!-- 1 - Harlot's name -->
+    <value >setelah ditolak buat dipacari, {0} dendam kepada harlot! 💋
+	  DOR!! {1} terkapar di tengah kerumunan mahasiswa.</value>
+  </string>
+  <string key="DefaultShot" >
+	<!-- 0 - Gunner's name -->
+    <!-- 1 - target name -->
+    <!-- 2 - Target's revealed name ( Target was a role) -->
+    <value >DOR!! 💥 mahasiswa ngeliat {0} 🔫 berdiri di samping jasad {1} yang tergeletak, moncong pistol lebaran masih diarahkan ke kepalanya yang terburai.
+	{2}.</value>
+	<value >DOR!! 💥🔫 {0} memeriksa jasad {1} yang tergeletak, mahasiswa cuma bisa ngeliat tapi nggak ada yang berani mendekat.
+	{2}.</value>
+  </string>
+  <string key="WolfWins" >
+    <value >🎉 ก็็็็็็็็็ᶘ•͡ᴥ•ᶅ ก้้ 🎉
+	SERIGALA udah MENANG!
+	AUUUUUUUUU!!! 🐺</value>
+  </string>
+  <string key="WolvesWin" >
+    <value >🎉 ก็็็็็็็็็ᶘ•͡ᴥ•ᶅ ก้้ 🎉
+	KAWANAN SERIGALA MENANG!!!
+	AAAUUUUUUUU!! 🐺🐺</value>
+  </string>
+  <string key="VillageWins" >
+    <value >🎉 ⋛⋋( ˙Θ˙(˙Θ˙)˙Θ˙ )⋌⋚ 🎉
+	👱 mahasiswa kampung Himakom MENANG!
+	Semua Serigala udah mati.</value>
+  </string>
+  <string key="TannerWins" >
+    <value >🎉 ∠( ᐛ 」∠)＿ 🎉
+	WAKACAW!! kamorang terjebak udah gantung Tanner si pembuat onar! 
+	TANNER MENANG! 👺.</value>
+  </string>
+  <string key="RemainingPlayersEnd">
+    <value>Mahasiswa Tersisa, Peran, dan Team:</value>
+  </string>
+  <string key="CultistVotedConvert" >
+	<!-- 0 - Voter's name -->
+    <!-- 1 - target name -->
+    <value >{0} milih ngasut {1}.</value>
+  </string>
+  <string key="CultConvertCultHunter">
+	<!-- 0 - Yougest Kutil (killed)'s name' -->
+    <!-- 1 - CultHunter's name -->
+    <value>{0} diutus buat ngasut {1} .. dengan polosnya, dia baru sadar kalo ternyata dia pemburu Pemuja Mumu Ajaib. Duh. 💂
+	{0} udah mati!</value>
+  </string>
+  <string key="CultHunterKilledCultVisit">
+	<!-- 0 - Youngest Kutil's name -->
+    <!-- 1 - Number of cultists left -->
+    <value> {0} ke kosan lo semalem bawa formulir pendaftaran dan berbagai jenis Mumu Ajaib.. Nyengir dikit, Lo langsung menghunus tepat di dadanya.  Seorang Pemuja Mumu Ajaib mati.. {1} tersisa!</value>
+  </string>
+  <string key="CultConvertYou">
+    <value>👤 Pemuja Mumu Ajaib berhasil ngajak gabung! BIDIP!! BIDIP!! 🐚. tiap malem, Lo bisa ngajak orang laen buat gabung. BIDIP!! BIDIP!!</value>
+  </string>
+  <string key="CultTeam">
+	<!-- 0 - Number of cultists -->
+    <value>👤 Kutil pemuja Mumu Ajaib: {0}</value>
+  </string>
+  <string key="CultJoin">
+	<!-- 0 - new Kutil's name -->
+    <value>{0} udah gabung dengan Pemuja Mumu Ajaib! 👤 BIDIP!! BIDIP!! </value>
+  </string>
+  <string key="CultVisitEmpty">
+	<!-- 0 - Newest Kutil's name -->
+    <!-- 1 - target name -->
+    <value>{0} bawa formulir pendaftaran ke kosan {1}. setelah mengetuk pintu kosannya beberapa jam, Lo mutusin meninggalkan formulir pendaftaran di bawah pintu.</value>
+  </string>
+  <string key="CultWins" >
+    <value >🎉 ~(˘з˘)~~(˘з˘)~~(˘з˘)~ 🎉
+	BIDIP BIDIP!! 👤
+	Semua serigala udah mati, mahasiswa yang tersisa udah jadi pemuja Mumu Ajaib!  
+	gengs mahasiswa PEMUJA Mumu Ajaib MENANG! 
+	ULULULULULU.. ~(˘з˘)~</value>
+  </string>
+  <string key="HunterVisitDead">
+	<!-- 0 - target name -->
+    <value>💂 Lo pergi ke kosan {0}, tapi dia terlebih dulu mati.</value>
+  </string>
+  <string key="HunterFindCultist">
+	<!-- 0 - target name -->
+    <value>💂 Lo pergi ke kosan {0}, terdengar suara BIDIP BIDIP!! 🐚 Lo pun mengayunkan pedangmu ke arahnya, seorang Kutil Pemuja Mumu Ajaib udah mati. 👤</value>
+  </string>
+  <string key="HunterFailedToFind">
+	<!-- 0 - target name -->
+    <value>💂 Lo pergi ke kosan {0}, nggak ada yang nyurigain. Lo pun balik ke kosan.</value>
+  </string>
+  <string key="WildChildToWolves">
+	<!-- 0 - Werechild's name -->
+    <value>Seorang dosen pembimbing udah mati! Terdengar suara amarah dari dalam beringin Unila, {0} udah jadi Serigala!</value>
+  </string>
+  <string key="WildChildTransform">
+	<!-- 0 - role's name -->
+    <!-- 1 - teamate's names -->
+    <value>{0} udah mati! Dalam amarahmu Lo berlari ke beringin Unila dan jadi Serigala! Tim serigala lo adalah: {1}</value>
+  </string>
+  <!-- Villager, tukang mabok, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Kutil, CultistHunter-->
+  <string key="Villager">
+    <value>mahasiswa kampung Himakom 👱</value>
+  </string>
+  <string key="tukang mabok">
+    <value>tukang mabok 🍻</value>
+  </string>
+  <string key="Harlot">
+    <value>Harlot 💋</value>
+  </string>
+  <string key="Seer">
+    <value>dukun Kampung Himakom (Seer) 👳</value>
+  </string>
+  <string key="Traitor">
+    <value>Pengkhianat 🖕</value>
+  </string>
+  <string key="GuardianAngel">
+    <value>Malaikat Pelindung Yang Jatuh Dari Tangga Lab 👼</value>
+  </string>
+  <string key="Detective">
+    <value>Detektif 🕵</value>
+  </string>
+  <string key="Wolf">
+    <value>Serigala 🐺</value>
+  </string>
+  <string key="Cursed">
+    <value>Terkutuk (Cursed) 😾</value>
+  </string>
+  <string key="Gunner">
+    <value>Gunner 🔫</value>
+  </string>
+  <string key="Tanner">
+    <value>Tanner 👺</value>
+  </string>
+  <string key="Fool">
+    <value>Fool 🃏</value>
+  </string>
+  <string key="WildChild">
+    <value>Anak yang Liar 👶</value>
+  </string>
+  <string key="Beholder">
+    <value>Beholder 👁</value>
+  </string>
+  <string key="ApprenticeSeer">
+    <value>mahasiswa bimbingan dukun Kampung Himakom (Apprentice Seer) 🙇</value>
+  </string>
+  <string key="Kutil">
+    <value>Kutil 👤</value>
+  </string>
+  <string key="CultistHunter">
+    <value>Kutil Hunter 💂</value>
+  </string>
+  <!-- These are for the player list -->
+  <string key="RanAway">
+    <value>Kabur</value>
+  </string>
+  <string key="Dead">
+    <value>💀 ninggal</value>
+  </string>
+  <string key="Alive">
+    <value>🙂 Masih Hidup</value>
+  </string>
+  <string key="PlayersAlive">
+    <value>Mahasiswa yang Masih Hidup</value>
+  </string>
+  <!-- New strings 4 MAY 2016-->
+  <string key="Mason">
+    <value> Mas Yon 👷</value>
+  </string>
+  <string key="RoleInfoMason">
+    <value>Lo adalah Mas Yon. 👷 mahasiswa kampung Himakom yang nggak punya kekuatan apa-apa selain tau teman-teman mas yon lo di awal permainan.</value>
+  </string>
+  <string key="MasonEaten">
+	<!-- 0 - dead man's name -->
+    <value>🌤 Pagi udah dateng, mahasiswa kampung Himakom nemuin mayat di tumpukan puing dan darah berceceran. Salah satu teman mas yon lo, {0} udah mati!</value>
+  </string>
+  <string key="MasonTeam">
+    <value>  Perkumpulan para mas yon adalah: {0}</value>
+  </string>
+  <!-- new strings May 6 2016-->
+  <string key="CultTargetDead">
+	
+    <value>Anggota baru lo otw kosan {0} bawa formulir pendaftaran,
+      tapi dia nemuin kosan yang porak poranda dengan darah berceceran, bekas cakaran serigala di dinding. Sepertinya dia udah dimakan serigala duluan.</value>
+  </string>
+  <string key="GuardBlockedWolf">
+	<!-- 0 - target's name -->
+    <value>Kawanan serigala otw ke kosan {0} dengan beringas, tapi diorang ngeliat penampakan Kuntil Anak bersayap Hijau Keabu-abuan Di depan kosan {0}.
+	  Seorang Malaikat Pelindung Yang Jatuh Dari Tangga Lab bikin kamorang lari ketakutan.</value>
+  </string>
+  <!-- new strings May 9 2016-->
+  <string key="CultUnableToConvert">
+	<!-- 0 - newest  -->
+    <!-- 1 - target's name -->
+    <value>Lo ngutus {0} buat ngajak {1} gabung, tapi iman dia sangat kuat dan nggak tergoyahkan. Dia alergi mumu. 
+	(☉_☉)</value>
+	<value>Lo ngutus {0} buat ngajak {1} gabung. Tapi dia terlalu sibuk, sehingga gagal
+	(・・。)ゞ</value>
+  </string>
+  <!-- new string May 12 2016-->
+  <string key="NameExists">
+	<!-- 0 - target's name -->
+    <!-- 1 - name -->
+    <value> @{1} , Mahasiswa dengan nama {0} sudah ada yang ikut main.  Ganti nama Lo ya.</value>
+  </string>
+  <string key="HarlotDiscoverCult">
+	<!-- 0 - target's name -->
+    <value>Lo diem-diem masuk ke kosan {0} buat kelon ena ena 👄. setelah bakal pulang, Lo ngeliat sebuah mumu raksasa bercahaya di salah satu kamar. BIDIP! BIDIP!! 🐚</value>
+  </string>
+  <!-- new string May 13 2016-->
+  <string key="Was">
+    <value>adalah</value>
+  </string>
+  <string key="GenericDeathNoReveal">
+	<!-- 0 - Dead's name -->
+    <value>Pagi udah dateng, {0} belum tanda tangan absensi harian. mahasiswa ke kosan {0} dan ngeliat dia mati mengenaskan.</value>
+    <value>Pagi udah dateng, mahasiswa terkejut ngeliat jasad {0} di tengah jalan.</value>
+	<value>mahasiswa berteriak, diorang ngeliat mayat {0} di bawah patung tanpa kepala.</value>
+  </string>
+  <string key="MasonConverted">
+	<!-- 0 - mason's name -->
+    <value>Ada yang Hena...  {0} nggak keliatan di absen Mason pagi ini, Kemanakah dia? 
+	(╯°Д°）╯︵/(.□ . )</value>
+  </string>
+  <!-- new string May 16 2016-->
+  <string key="FleeDisabled">
+    <value>Eaaaaa!! Kabur saat permainan berlangsung dilarang oleh Admin Grup!
+	(๑•̌.•̑๑)ˀ̣ˀ̣</value>
+  </string>
+  <string key="IsDead"> <!-- used when gunner shoots a player -->
+    <value>ninggal</value>
+  </string>
+  <!-- MORE STRINGS May 16, 2016 -->
+  <string key="AdminAdded">
+	<!-- 0 - target's name -->
+    <value>{0} ditambahkan di daftar admin. pake /config buat ngubah Grup Setting.</value>
+  </string>
+  <string key="AlreadyInGame">
+	<!-- 0 - target's name -->
+    <value>Lo udah gabung di permainan ini! ({0})</value>
+  </string>
+  <string key="MultipleGames">
+    <value>Grup ini punya lebih dari 1 permainan, kami bakal menganulir salah satunya.</value>
+  </string>
+  <string key="GroupQueue">
+	<!-- 0 - target's name -->
+    <!-- 1 - target's name -->
+    <value>Grup anda lagi dalam proses mengantre. Posisi: {0} / {1}</value>
+  </string>
+  <string key="MaintBreak">
+	<!-- 0 - target's name -->
+    <value>Kami bakal mulai maintenance, Anda nggak dapat mulai permainan buat sementara. \nWaiting {0} games to end.\nGo Silahkan ke @werewolfdev buat informasi lainnya.</value>
+  </string>
+  <string key="MaxGames">
+	<!-- 0 - target's name -->
+    <!-- 1 - target's name -->
+    <value>Maaf, maximum permainan udah tercapai ({0}).  \nPosition in queue: {1} / {1}</value>
+  </string>
+  <string key="SkipQueue">
+	<!-- 0 - target's name -->
+    <value>{0} adalah preferred group dan langsung mulai bermain!</value>
+  </string>
+  <string key="NoGame">
+    <value>nggak ada permainan berlangsung.  Mulai permainan dengan /startgame atau mulai permainan chaos dengan /startchaos</value>
+  </string>
+  <string key="GroupAdminOnly">
+    <value>cuma Admin Grup yang dapat melakukan command. Hapus bot, lalu mengembalikannya balik bakal jadikan Lo sebagai Admin.</value>
+  </string>
+  <string key="ShuttingDown">
+    <value>Kami bakal melakukan maintenance setelah permainan ini.
+	♪└|∵|┘♪</value>
+  </string>
+  <string key="ShuttingDownUpdate">
+    <value>Kami bakal mematikan bot sementara buat "Update" setelah permainan ini.
+	♪└|∵|┘♪</value>
+  </string>
+  <string key="NullIdAdmin">
+    <value>UserId nggak tersedia. Sudahkan anda menggunbakal sebagai reply?</value>
+  </string>
+  <string key="AlreadyAdmin">
+	<!-- 0 - target's name -->
+    <value>{0} udah jadi Admin!</value>
+  </string>
+  <string key="NotAdmin">
+	<!-- 0 - target's name -->
+    <value>{0} bukan seorang Admin!</value>
+  </string>
+  <string key="AdminRemoved">
+	<!-- 0 - target's name -->
+    <value>{0} udah diapus sebagai Admin.</value>
+  </string>
+  <string key="LanguageSet">
+	<!-- 0 - language's name -->
+    <value>Bahasa diubah jadi {0}</value>
+  </string>
+  <string key="NoSeer">
+	<value>Seer nggak ditemuin!</value>
+  </string>
+  <string key="TimesUp">
+	<value>Jawaban lo telat!</value>
+  </string>
+  <!-- new strings june 10 2016 -->
+  <string key="RoleInfoCupid">
+    <value>Lo adalah Cupid 💘. Malaikat kecil dari surga yang memakai celana dalam + baju angkatan dan sayap mungil, dengan panah asmaramu Lo bisa milih sepasang kekasih yang dimabok asmara dan tak terpisah oleh waktu. kalo salah satu pilihan lo mati, kekasihnya bakal ninggal karena kesedihan.</value>
+  </string>
+  <string key="RoleInfoDoppelganger">
+    <value>Lo adalah Doppelgänger 🎭. Menurut legenda Lo dapat berwujud jadi siapa pun dengan kekuatan yang hampir sama seperti pilihan lo. kalo pilihan lo mati, Lo bakal gantiin peran Mahasiswa tersebut.</value>
+  </string>
+  <string key="RoleInfoHunter">
+    <value>Lo seorang Hunter 🎯. Tidur lo nggak pernah nyenyak dan selalu bawa pistol lebaran buat jaga diri. kalo Lo mati, Lo bisa milih orang laen buat Lo bawa ke lembah kematian. kalo Lo dimakan, Lo punya kemungkinan bunuh salah satu Serigala biarpun Lo tetap kalah.</value>
+  </string>
+  <string key="RoleInfoSerialKiller">
+    <value>Lo adalah Serial Killer 🔪, pembunuh berantai yang melarikan diri dari RSJ Kurungan Nyawa. Yang buat lo bahagia adalah ngeliat korban-korban lo ada di balik kaca kamar koleksimu satu per satu tiap malem.</value>
+  </string>
+  <string key="CupidChosen">
+    <value>CIYEEEEEE!!! (ɔ˘˘)˘˘c)❤️ 
+	Inikah namanya cinta? Oh inikah cinta? Cinta pada jumpa pertama... ❤♫♫ Dadamu berdegup tiap ngeliat {0} berpapasan di jalan, malem sepi pun cuma dia yang jadikan rindu bagai jamu paling memabokkan. Berjuanglah bersama sampe akhir! kalo salah satu di antara kamorang mati, pasanganmu bakal patah hati dan menyusulmu ke alam berikutnya.</value>
+	<value>CIYEEEEEE!!! (ɔ˘˘)˘˘c)❤️ 
+	Lo GAK JOMBLO LAGI!! Pasanganmu adalah {0} !  Tapi kalau pasanganmu mati, Lo pun bakal mati, Romantis bingits! Kalau kamorang berdua bertahan sampai akhir, kalianlah pemenangnya. .</value>
+  </string>
+  <string key="HunterLynchedChoice">
+    <value>mahasiswa kampung Himakom milih buat mengeksekusimu! Inilah kesempatan terakhir buat milih siapa yang Lo bawa menemanimu ke akhirat!</value>
+  </string>
+  <string key="HunterNoChoiceLynched">
+    <value>(30 Menit Sebelumnya)
+	{0} dikejar semua mahasiswa kampung Himakom! Panik dengan keterbatasan waktu bikin senapannya jatoh dan akhirnya ditangkap mahasiswa.
+	\(!!˚O˚)/ \(˚O˚!!)/</value>
+  </string>
+  <string key="HunterSkipChoiceLynched">
+    <value>(30 Menit Sebelumnya)
+	{0} keperangkap! dia ngeliat semua mahasiswa kampung Himakom yang marah satu persatu. Tapi dia milih menyerah, menerima nasibnya mati di tangan mahasiswa kampung Himakom.</value>
+  </string>
+  <string key="HunterKilledFinalLynched">
+	<!-- 0 - hunter's name -->
+    <!-- 1 - target's name -->
+    <!-- 2 - target's role -->
+    <value>(30 Menit Sebelumnya)
+	semua mahasiswa kampung Himakom mengejar {0} dan nemuinnya keperangkap di salah satu kosan! Dengan sigap dia ngeliat satu per satu mahasiswa dan nembak {1} buat bela diri! 
+	{1} jatoh bersimbah darah, lalu mati. {2}</value>
+  </string>
+  <string key="HunterShotChoice">
+    <value>Seseorang udah ngelukain lo! Lo jatoh ke tanah, tapi masih punya kesempatan buat nembak orang laen! Cepet!!!
+	\(!!˚O˚)/ \(˚O˚!!)/</value>
+  </string>
+  <string key="HunterNoChoiceShot">
+	<!-- 0 - hunter's name -->
+    <value>(Beberapa menit sebelumnya)🎯
+	Darah mengucur deras, {0} sang Hunter tak sadarkan diri! telat bertindak, seorang hunter cuma diam pasrah sambil senyum meregang nyawa.</value>
+  </string>
+  <string key="HunterSkipChoiceShot">
+	<!-- 0 - hunter's name -->
+    <value>(Beberapa menit sebelumnya)🎯
+	{0} terbujur di tanah dan berusaha buat berpikir jernih! Dia ngeliat satu per satu mahasiswa tapi milih buat nggak milih, lalu mati dalam kesendiriannya. So Sweet, Yang tenang yaah :) </value>
+  </string>
+  <string key="HunterKilledFinalShot">
+	<!-- 0 - hunter -->
+    <!-- 1 - target's name -->
+    <!-- 2 - target's role -->
+    <value>(Beberapa menit sebelumnya)🎯
+	{0} tertatih memegang dadanya yang penuh bercak darah lalu jatoh ke tanah.... Dengan sisa hidupnya dia tersenyum mengarahkan senapannya ke arah kerumunan dan nembak 【{1}】. {2}</value>
+  </string>
+  <string key="CultConvertSerialKiller">
+    <value> {0} bawa formulir pendaftaran ke kosan {1} dan disambut dengan hangat. Secangkir kopi tersaji dan dateng-dateng {1} menghunus pisau berkali-kali ke dada dan perut 【{0}】 sampe akhirnya dikuliti hidup-hidup dan dijadikan salah satu koleksinya.
+	{0} udah mati.. </value>
+  </string>
+  <string key="HunterShotWolfMulti">
+	<!-- 0 - target's name -->
+    <value>Kawanan Serigala nyerang Hunter 🎯, tapi dia sempet nembak ke salah satu Serigala 🐺 {0} ninggal seketika!</value>
+  </string>
+  <string key="HunterShotWolf">
+	<!-- 0 - target's name -->
+    <value>Serigala nyerang Hunter semalem, tapi dia sempet nembak 🐺 {0}</value>
+    <value>Terdengar suara ribut semalem, geraman Serigala dan suara letusan mengakhiri 🐺 {0} !</value>
+  </string>
+  <string key="SerialKillerKilledWolf">
+    <value>🐺 Serigala berusaha makan seseorang tadi malem, tapi malah bertemu dengan seorang maniak!! {0} tak sempet melarikan diri dan Bulunya Dikuliti Serial Killer 🔪!</value>
+  </string>
+  <string key="DefaultKilled">
+	<!-- 0 - target's name -->
+    <!-- 1 - target's role -->
+    <value>kampung Himakom gitu tenang semalem, tapi nggak bagi {0} !  
+	mahasiswa nemuin mayat {0} terbujur dengan puluhan luka tusuk dan Kepala Terbelah! Ada yang Mencuri Otaknya semalem! 
+	Serial Killer udah balik!! 🔪
+	{1}</value>
+	<value>Terdengar teriakan dari kosan {0} !  
+	mahasiswa berlarian otw arah suara bawa tombak, tapi diorang nemuin {0} Wajahnya Dikuliti seseorang!!
+	Serial Killer udah balik!! 🔪 
+	{1}</value>
+	<value>Pagi ini {0} terbangun dengan riang gembira!  
+	buka jendela dan menghirup udara segar, tersadar Dadanya Terbelah dan Jantungnya udah Hilang! {0} ninggal telat!!
+	Serial Killer Beraksi!! 🔪
+	{1}</value>
+	<value> {0} merintih meminta pertolongan!  
+	mahasiswa ngeliat {0} menyeret tubuhnya, Kedua Matanya tercongkel dan punggung penuh luka tusuk!! dia pun ninggal kehabisan darah..
+	Serial Killer Beraksi!! 🔪
+	{1}</value>
+	<value>tukang mabok? Sepertinya bukan.. mahasiswa ngeliat {0} tak sadar di depan CS!  
+	Ternyata {0} ninggal dan telinganya dicuri seseorang buat menambah koleksinya!
+	Serial Killer Beraksi!! 🔪
+	{1}</value>
+	<value>Sepertinya ada yang nggak senang dengan {0}!  
+	Apakah dia terlalu berisik di grup atau terlalu diam, yang jelas {0} ninggal ditusuk dengan Lidah terpotong!
+	Serial Killer Beraksi!! 🔪
+	{1}</value>
+	<value>KYAAAA!!! Serial Killer tengah beraksi menguliti kulit kepala {0}!  
+	mahasiswa berhamburan bawa tombak dan obor, tapi Serial Killer berhasil kabur duluan! {0} ninggal Botak Sebelah!
+	Serial Killer Beraksi!! 🔪
+	{1}</value>
+  </string>
+  <string key="GuardBlockedKiller">
+	<!-- 0 - target's name -->
+    <value>Lo pergi ke kosan {0} buat melengkapi koleksimu, tapi Lo malah bertemu dengan sosok hitam besar menjaganya! Sumringah Lo tetap melawannya biarpun akhirnya Lo kalah.</value>
+  </string>
+  <string key="CultConvertHunter">
+	<!-- 0 - Youngest Kutil's name -->
+    <!-- 1 - target's name -->
+    <value>Pemuja mumu junior {0} ke kosan {1} bawa formulir pendaftaran, tapi terdengar suara tembbakal dan {0} terlempar keluar jendela! {0} udah mati....
+	┬─┬ ︵ /(.□. \）</value>
+  </string>
+  <string key="CultConvertSerialKiller">
+	<!-- 0 - Youngest Kutil's name -->
+    <!-- 1 - target's name -->
+    <value>Pemuja mumu junior {0} ke kosan {1}  bawa formulir pendaftaran, tapi terdengar suara teriakan {0} lalu hening seketika! Beberapa luka tusukan ditemuin di sekujur tubuhnya! EDAN!!! {0} udah mati....</value>
+  </string>
+  <string key="GuardKiller">
+    <value>Lo mencoba lindungin Serial Killer 🔪. HIH... Dia malah keluar dengan tertawa dan menusukmu 89 kali!! Sayapmu udah dijadikan koleksi buat hiasan kamarnya.</value>
+  </string>
+  <string key="HarlotFuckKiller">
+	<!-- 0 - target's name -->
+    <value>Perlahan Lo masuk ke kosan {0} berniat bobo-bobo ena sama dia, Semua keliatan baik baik saja sampai {0} keluarin pisau dan mulai menusukmu berkali kali sembari tertawa layaknya seorang Maniak!! Lo mati dengan mengenaskan....</value>
+  </string>
+  <string key="HarlotFuckKillerPublic">
+    <value>don't worry about this string for now!</value>
+  </string>
+  <string key="DGToMason">
+	<!-- 0 - target's name -->
+    <value>Si doppelganger {0} sudah jadi mason sama sepertimu!</value>
+  </string>
+  <string key="DGTransformToMason">
+	<!-- 0 - dead mason's name -->
+    <!-- 1 - mason collegues's name -->
+    <value> {0} udah mati, dan Lo jadi seorang mason 👷. Tim Masonmu adalah: {1}</value>
+  </string>
+  <string key="DGToCult">
+	<!-- 0 - new Kutil's name -->
+    <value>Si doppelganger {0} sekarang jadi Kutil sama sepertimu!</value>
+  </string>
+  <string key="DGTransformToCult">
+	<!-- 0 - role's name -->
+    <!-- 1 - teammates's name -->
+    <value>{0} udah mati, dan Lo jadi seorang Kutil 👤. Tim cultistmu adalah: {1}</value>
+  </string>
+  <string key="DGToWolf">
+	<!-- 0 - DG's name -->
+    <value>Si doppelganger {0} sekarang jadi Serigala sama sepertimu!</value>
+  </string>
+  <string key="DGTransformToWolf">
+	<!-- 0 - target's name -->
+    <!-- 1 - teammates's name -->
+    <value>{0} udah mati, dan Lo jadi seekor Serigala 🐺. Tim serigala lo adalah: {1}</value>
+  </string>
+  <string key="SerialKillerWins">
+    <value>🎉 semua penduduk kampung Himakom udah mati dan jadi koleksi di kamar Serial Killer !!!
+	Pembunuh Berantai Menang!! 🔪</value>
+  </string>
+  <string key="AskKill">
+    <value>Siapa yang mau Lo bantai malem ini?</value>
+  </string>
+  <string key="LoverDied">
+	<!-- 0 - dead's name -->
+    <!-- 1 - lover's name -->
+    <!-- 2 - roles -->
+    <value>{0} mati di pelukan {1}. Ngga tahan ngejomblo lagi, dia milih bunuh diri.💔 {2}</value>
+	<value>{0} mati di pelukan {1}. Airmata menganak sungai di pipinya, dia meminum racun lalu mati.💔 {2}</value>
+	<value>{0} mati di pelukan {1}. Terlalu sedih buat dijalani, dia meminta Dewa19 mencabut nyawanya.💔 
+	(ˊ̥̥̥̥̥ ³ ˋ̥̥̥̥̥) {2}</value>
+  </string>
+  <string key="AskDoppelganger">
+    <value>Kalau dia mati, Lo bakal jadi dia, hayo pilih mau jadi siapa?</value>
+  </string>
+  <string key="AskCupid1">
+    <value>Siapa yang mau Lo jadiin sepasang kekasih sehidup semati? Pilih jomblo pertama</value>
+  </string>
+  <string key="AskCupid2">
+    <value>Siapa yang mau Lo jadiin sepasang kekasih sehidup semati? Pilih jomblo kedua</value>
+  </string>
+  <string key="Hunter">
+    <value>Hunter 🎯</value>
+  </string>
+  <string key="Cupid">
+    <value>Cupid 💘</value>
+  </string>
+  <string key="SerialKiller">
+    <value>Serial Killer 🔪</value>
+  </string>
+  <string key="Doppelgänger">
+    <value>Doppelgänger 🎭</value>
+  </string>
+  <string key="CupidChosen">
+	<!-- 0 - lover's name -->
+    <value>Panah asmara Cupid mengenai hatimu, Lo GAK JOMBLO LAGI!! Pasanganmu adalah {0} !  Tapi kalau pasanganmu mati, Lo pun bakal mati, Romantis bingits! Kalau kamorang berdua bertahan sampai akhir, kalianlah pemenangnya.</value>
+  </string>
+  <string key="NewWCRoleModel">
+	<!-- 0 - target's name -->
+    <value>Lo udah jadi Anak yang Liar 👶.  role model mu adalah {0}</value>
+  </string>
+  <string key="LoversWin">
+    <value>🎉 Cinta yang sebenarnya Selalu Bertahan!
+	Sepasang kekasih udah Menang! #LoveWins
+	(ɔ˘˘)˘˘c)❤️ </value>
+  </string>
+  <string key="HunterKilledVisiter">
+	<!-- 0 - target's name -->
+    <!-- 1 - role -->
+    <value>Seonggok mayat tersungkur di depan sekret kampung Himakom, diorang ngeliat {0} ninggal dengan luka tembak di leher. Sepertinya dia berusaha masuk ke kosan seorang Hunter! {1}</value>
+    <value>mahasiswa berkumpul di depan mayat {0} dengan luka tembak tepat di kepala! 
+	"Peringatan Bagi Siapa Saja yang Mengganggu Tidurku ---Hunter---!" {1}</value>
+  </string>
+  <string key="CultAttempt">
+    <value>Lo nemuin sehelai formulir pendaftaran di bawah pintu, tapi tak ngeliat seseorang di sekitar Lo.</value>
+  </string>
+  <string key="AlreadyOnWaitList">
+	<!-- 0 - target's name -->
+    <value>Lo sudah terlebih dulu memesan panggilan, jangan bawel! Silahkan menunggu! {0}
+	ಠ_ಠ</value>
+  </string>
+  <string key="AddedToWaitList">
+	<!-- 0 - target's name -->
+    <value>Lo udah memesan panggilan buat Grup {0}. Jangan lupa buat /join .Kami bakal memberi notifikasi ketika permainan berikutnya dimulai ​( ˘ з ˘).</value>
+  </string>
+  <string key="NotifyNewGame">
+	<!-- 0 - target's name -->
+    <value>Permainan baru bakal dimulai dalam {0}</value>
+  </string><string key="SerialKillerWinsOverpower">
+	<!-- 0 - SK's name -->
+    <!-- 1 - target's name -->
+    <value>Pagi udah dateng.
+	cuma 2 orang tersisa,.
+	{0} ngeliat {1} sambil tertawa, koleksi terakhir berdiri di hadapannya.
+	Serial Killer memutilasinya sampe puluhan bagian! 🔪</value>
+  </string>
+  <string key="NoWinner" isgif="true">
+    <value>semua penduduk kampung Himakom udah ninggal! nggak ada yang tersisa kecuali mayat dan bau anyir. nggak ada yang menang kali ini, kecuali burung kematian yang berpesta!</value>
+  </string>
+  <string key="SKHunterEnd">
+	<!-- 0 - SK's name -->
+    <!-- 1 - Hunter's name -->
+    <value> {0} ngeliat {1} sambil tertawa, dia berlari dan menusuk dadanya! 🔪
+	Saat itu juga moncong pistol lebaran lagi mengarah tepat di jidatnya 🎯. DOR!! 💥
+	Keduanya tersungkur, diorang tertawa sebelum mati.</value>
+  </string>
+  <string key="RoleModelChosen">
+	<!-- 0 - target's name -->
+    <value>Lo terlalu galau menentukan pilihan, jadi dosen pembimbing pilihan buatmu adalah: {0}</value>
+  </string>
+  <string key="Won">
+    <value>Menang</value>
+  </string>
+  <string key="Lost">
+    <value>Kalah</value>
+  </string>
+  <string key="IdleCount">
+    <!-- 0 - player's name -->
+    <!-- 1 - idle count -->
+    <value>Mahasiswa {0} wajib fardhu 'ain mati karena nggak milih sebanyak {1} kali dalam 24 jam. 
+	Jangan coba-coba buat afk (--,). </value>
+  </string>
+  <string key="AboutVG">
+    <value>Tugas villager (rakyat jelata) sederhana, ngoding di sekret tanah tiap hari dan bertahan hidup. 
+	Jangan kebanybakal makan bakso micin depan GIK, ikuti petunjuk dengan baik. Oke? (￣^￣)7 </value>
+  </string>
+  <string key="AboutSeer">
+    <value>Seer dapat milih dan tau peran Mahasiswa laen tiap malem. pake peran ini baik-baik dan bijak. 
+	Jangan sampai ketauan, atau Lo bakal mati! ┒('o'┒)  </value>
+  </string>
+  <string key="AboutWw">
+    <value>Berpesta tiap malem adalah tugas serigala! makan semua mahasiswa sampai tak tersisa! Hati-hati dengan tukang mabok, dia bakal buat lo pusing seharian. 
+	makan Cursed secepatnya, karena dia bakal gabung jadi serigala! （￣ー￣） </value>
+  </string>
+  <string key="AboutHarlot">
+    <value>Sebagai Harlot, pergilah ke kosan mahasiswa buat bersenang-senang tiap malem (~‾ ▽‾)~. Kalau pergi ke kosan serigala, Lo pasti mati. 
+	Pastikan kosan yang dikunjungi nggak didatangi serigala atau Lo bakal jadi santapan. 
+	kalo serigala datang ke kosan lo, Lo aman karena Lo tak ada di kosan . </value>
+  </string>
+  <string key="Abouttukang mabok">
+    <value> mahasiswa tukang mabok! Ketika serigala makan lo, diorang bakal mabok berat dan nggak dapat makan seharian.</value>
+  </string>
+  <string key="AboutCursed">
+    <value> Cursed adalah mahasiswa terkutuk. Tunggu sampai serigala makan lo, Lo bakal ikut bersenang-senang dengan diorang! </value>
+  </string>
+  <string key="AboutTraitor">
+    <value> Tugas Pengkhianat adalah bertahan hidup di antara mahasiswa sampai semua serigala mati. setelah itu, Lo jadi serigala. </value>
+  </string>
+  <string key="AboutGA">
+    <value>Malaikat Pelindung Yang Jatuh Dari Tangga Lab bertugas buat lindungin salah satu Mahasiswa. kalo lindungin serigala, 50% kemungkinan bakal mati. (´̩ε `̩ ) Sedih. </value>
+  </string>
+  <string key="AboutDetective">
+    <value>Detektif dapan mencaritau peran Mahasiswa lainnya. Hati-hati, kemungkinan 40% serigala tau aktivitasmu. </value>
+  </string>
+  <string key="AboutGunner">
+    <value> Tugas Gunner sangat jelas, nembak 1 tersangka tiap harinya. setelah nembak, semua mahasiswa bakal tau peran Lo. 
+	pake 2 peluru Lo dengan bijak ( う-´)づ┳一 - -. </value>
+  </string>
+  <string key="AboutTanner">
+    <value> Tanner terlalu depresi buat hidup. Cari cara agak semua mahasiswa mengantung lo. Ketika Lo mati, Lo menang. </value>
+  </string>
+  <string key="AboutFool">
+    <value>Fool merasa dirinya Seer (dukun Kampung Himakom). Padahal, semuanya tipu belaka. ┐(ˇ.ˇ")┌ </value>
+  </string> 
+  <string key="AboutCult">
+    <value>Hidup Jomblers Pemuja Mumu Ajaib! Hasut mahasiswa agar pengikutmu bertambah banyak, makanya Lo menang! </value>
+  </string>
+  <string key="AboutCH">
+    <value>Pemuja Mumu Ajaib sudah menyebar. Tugas Jomblers Hunter berburu dan bunuh diorang satu per satu. kalo ada Jomblers datang padamu, dia pasti mati.</value>
+  </string>
+  <string key="AboutWC">
+    <value> Di awal permainan, pilih dosen pembimbing lo. Ketika dosen Ilkom pembimbing lo mati, Lo bakal jadi serigala. </value>
+  </string>
+  <string key="AboutAppS">
+    <value> Awalnya, Lo cuma mahasiswa bimbingan dari seer. Tapi, setelah seer mati, Lo bakal gantiin tugasnya. </value>
+  </string>
+  <string key="AboutBH">
+    <value> Beholder yang tau siapakah seer asli dan bukan fool. pake informasi ini baik-baik. </value>
+  </string>
+  <string key="AboutMason">
+    <value> Mas Yon adalah mahasiswa yang sederhana. diorang tau siapa mason lainnya dan bekerja dengan baik. </value>
+  </string>
+  <string key="AboutDG">
+    <value> Doppelganger bakal milih Mahasiswa laen dan ketika Mahasiswa tersebut mati, dia bakal jadi peran tersebut. Jomblers nggak dapat menhasut Doppelganger. kalo peran yang dipilih adalah Anak yang Liar dan panutannya sudah mati, Lo bakal jadi serigala.
+    </value>
+  </string>
+  <string key="AboutCupid">
+    <value>
+      Lope Lope di udara. Cupid bakal milih 2 Mahasiswa jomblo buat dijadikan pasangan (lovers). diorang bakal saling tau nama pasangannya, tapi nggak tau peran masing-masing. 
+	  kalo lovers pilihan lo bertahan hidup, diorang bakal menang. ( ≈ˆ3(¯▾ˆ◦)♥ 
+    </value>
+  </string>
+  <string key="AboutHunter">
+    <value>Hunter memiliki keinginan buat membalas dendam sangat tinggi. Mahasiswa yang datang ke kosan lo, tak segan Lo bunuh. kalo mahasiswa gantung lo, Lo dapat bunuh satu orang lagi sebelum mati. setelah serigala nyerangmu, Lo dapat bunuh 1 serigala saat itu juga. 
+	Jomblers yang berusaha datang buat menghasutmu memiliki kemungkinan 50% gagal. 
+    </value>
+  </string>
+  <string key="AboutSK">
+    <value>Serial Killer adalah Pembunuh kelas kakap. Keluar dari penjara tak membuatnya bertobat. Bunuh siapaun yang Lo mau, makanya Lo bakal menang.</value>
+  </string>
+  <string key="AboutPara">
+    <value>Para adalah penyebab kegilaan werewolf game ini. Hati-hati sama Para. Udah itu aja.  </value>
+  </string>
+  <string key="EndTime">
+    <value>Waktu Permainan: {0}</value>
+  </string>
+  <string key="Day">
+    <!--0 - Day -->
+    <value>Hari {0}</value>
+  </string>
+  <string key="NodeShutsDown">
+    <value>Kesalahan sistem udah terjadi, titik ini udah dimatikan </value>
+  </string>
+  <string key="SentPrivate">
+    <value>Ada PM buatmu. Ayo dibaca. </value>
+  </string>
+  <string key="StartPM">
+    <value>Tolong PM segera, agar kami bisa beri petunjuk lebih lanjut: @werewolfbot</value>
+  </string>
+  <string key="PMTrue">
+    <value>Terima Kasih! Sekarang Moderator bisa kasih Lo petunjuk.</value>
+  </string>
+  <string key="MustReplySmite">
+    <value>Lo wajib fardhu 'ain reply Mahasiswa kalo ingin melakukan smite. </value>
+  </string>
+  <string key="WhatToDo">
+    <value>Apa yang ingin Lo lakukan?</value>
+  </string>
+  <string key="JoinFromGroup">
+    <value>Lo wajib fardhu 'ain gabung permainan dalam grup!</value>
+  </string>
+  <string key="StartFromGroup">
+    <value>Lo wajib fardhu 'ain mulai permainan dalam grup!</value>
+  </string>
+  <string key="PingInfo">
+    <value>Waktu Respon Server: {0}\nCurrent CPU Usage: {1}%\nMessages per second: {2}</value>
+  </string>
+  <string key="WhatLang">
+    <value>Bahasa apa yang bakal Lo pilih?\nCurrent: {0}</value>
+  </string>
+  <string key="WhatVariant">
+    <value>Jenis bahasa apa yang bakal Lo pilih?\nCurrent: {0}</value>
+  </string>
+  <string key="LangSet">
+    <value>Penggunaan Bahasa yang dipilih adalah {0}</value>
+  </string>
+  <string key="GetLang">
+    <value>Lo ingin ngambil file bahasa apa?</value>
+  </string>
+  <string key="NoNodes">
+    <value>nggak ada node yg aktif (online), silahkan coba beberapa saat lagi</value>
+  </string>
+  <string key="GroupCommandOnly">
+    <value>Perintah ini cuma dapat dilakukan di grup. </value>
+  </string>
+  <string key="NotGlobalAdmin">
+    <value>Lo bukan Admin Global...</value>
+  </string>
+  <string key="NotPara">
+    <value>Lo BUKAN PARA!</value>
+  </string>
+  <string key="Yes">
+    <value>Ya</value>
+  </string>
+  <string key="No">
+    <value>nggak</value>
+  </string>
+  <string key="Allow">
+    <value>Ya</value>
+  </string>
+  <string key="Disallow">
+    <value>nggak</value>
+  </string>
+  <string key="Show">
+    <value>Tampilkan </value>
+  </string>
+  <string key="Hide">
+    <value>Sembunyikan </value>
+  </string>
+  <string key="NormalOnly">
+    <value>Normal</value>
+  </string>
+  <string key="ChaosOnly">
+    <value>Chaos</value>
+  </string>
+  <string key="PlayerChoice">
+    <value>Pilihan Mahasiswa</value>
+  </string>
+  <string key="ShowNone">
+    <value>nggak tampilkan semua peran Mahasiswa </value>
+  </string>
+  <string key="ShowLiving">
+    <value>tampilkan peran Mahasiswa hidup</value>
+  </string>
+  <string key="ShowAll">
+    <value>Tampilkan semua peran Mahasiswa</value>
+  </string>
+  <string key="Cancel">
+    <value>Cancel</value>
+  </string>
+  <string key="AllowFleeQ">
+    <!-- note, there is NO space after {0}.  This is on purpose -->
+    <value>Apakah Lo ingin mengijinkan flee setelah game dimulai?\nNote: Mahasiswa tetap dapat flee selama permainan belum dimulai. phase\nPengaturan sekarang: Mahasiswa {0}flee</value>
+  </string>
+  <string key="AllowFleeA">
+    <!-- note, there is NO space after {0}.  This is on purpose -->
+    <value>Mahasiswa {0}dapat flee setelah permainan dimulai</value>
+  </string>
+  <string key="MaxPlayersQ">
+    <value>Berapa jumlah maksimum Mahasiswa yang Lo inginkan?\nPengaturan sekarang: {0}</value>
+  </string>
+  <string key="MaxPlayersA">
+    <value>Maksimum Mahasiswa {0}</value>
+  </string>
+  <string key="ShowRolesDeathQ">
+    <value>Tampilkan atau sembunyikan peran setelah mati?\nPengaturan sekarang: {0}</value>
+  </string>
+  <string key="ShowRolesDeathA">
+    <value>Peran bakal di {0} setelah Mahasiswa mati.</value>
+  </string>
+  <string key="GameModeQ">
+    <value>Mode apa yang bakal digunbakal?\nPengaturan sekarang: {0}</value>
+  </string>
+  <string key="GameModeA">
+    <value>Game mode yang digunbakal adalah {0}</value>
+  </string>
+  <string key="ShowRolesEndQ">
+    <value>Bagaimana Lo ingin menampilkan peran Mahasiswa di akhir permainan?\nPengaturan sekarang: {0}</value>
+  </string>
+  <string key="ShowRolesEndA">
+    <value>Tampilan peran Mahasiswa: {0}</value>
+  </string>
+  <string key="SetDayTimeQ">
+    <value>Pilih jangka waktu (dalam detik) buat siang hari. Pengaturan tetap tergantung jumlah Mahasiswa.\nMinimal jangka waktu buat Mahasiswa adalah 60 detik.  Pengaturan awal: {0}\nPengaturan sekarang: {1}</value>
+  </string>
+  <string key="SetDayTimeA">
+    <value>Pengaturan jangka waktu siang hari {0} detik</value>
+  </string>
+  <string key="SetNightTimeQ">
+    <value>Pilih jangka waktu (dalam detik) buat malem hari. Pengaturan awal: {0}\nPengaturan sekarang:{1}</value>
+  </string>
+  <string key="SetNightTimeA">
+    <value>Pengaturan jangka waktu malem hari {0} detik</value>
+  </string>
+  <string key="SetLynchTimeQ">
+    <value>Pilih jangka waktu (dalam detik) buat waktu eksekusi(voting). Pengaturan awal: {0}\nPengaturan sekarang:{1}</value>
+  </string>
+  <string key="SetLynchTimeA">
+    <value>Pengaturan waktu eksekusi (voting) {0} detik</value>
+  </string>
+  <string key="AllowFoolQ">
+    <value>Apakah Lo ingin Fool dalam pilihan peran?\nPengaturan sekarang: {0}</value>
+  </string>
+  <string key="AllowFoolA">
+    <value>Pilihan Fool dalam Peran: {0}</value>
+  </string>
+  <string key="AllowTannerQ">
+    <value>Apakah Lo ingin Tanner dalam pilihan peran?\nPengaturan sekarang: {0}</value>
+  </string>
+  <string key="AllowTannerA">
+    <value>Pilihan Tanner dalam Peran: {0}</value>
+  </string>
+  <string key="AllowCultQ">
+    <value>Apakah Lo ingin Jomblers dalam pilihan peran?\nPengaturan sekarang: {0}</value>
+  </string>
+  <string key="AllowCultA">
+    <value>Pilihan Jomblers dalam Peran: {0}</value>
+  </string>
+  <string key="ThankYou">
+    <value>Terima kasih, Selamat bermain :)</value>
+  </string>
+</strings>
+ 
